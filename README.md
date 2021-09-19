@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bienvenidos a mi Super GitHub 👋
+
+![developer](https://user-images.githubusercontent.com/82917684/133914385-e84e82a9-2963-4aff-8e89-f1fdb4b70b20.jpg)
 
 <!--
 **Juan-Domingo/Juan-Domingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
